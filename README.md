@@ -1,6 +1,18 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <img src='https://miro.medium.com/max/1000/1*zikvkZ4-bRLpkKyJAN8WmQ.jpeg' width='1100px' height='250px'/>
+
+
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS ],
+   tools:  ["React", "Redux", "PostgreSQL", "Node", "Express", "Material UI"],
+};
+```
+
+
 <!--
 **srueda9331/srueda9331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
