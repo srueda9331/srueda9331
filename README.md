@@ -22,7 +22,7 @@ const aboutMe = {
 </p>
 
 <hr />
-- 📫 Contact: **srueda9331@gmail.com**
+- 📫 Contact: <link>srueda9331@gmail.com</link>
 <h3 align="left">Visit my profile on LinkedIn:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/santiago-jos%C3%A9-rueda-valencia-23b000180/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/santiago-jos%C3%A9-rueda-valencia-23b000180/" height="30" width="40" /></a>
