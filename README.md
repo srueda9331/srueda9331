@@ -9,10 +9,10 @@
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS ],
-   tools:  ["React", "Redux", "PostgreSQL", "Node", "Express", "Material UI"],
+   tools:  ["React", "Redux", "PostgreSQL", "Node", "Express", "Sequelize" "Material UI"],
 };
 ```
-
+- 📫 Contact: **srueda9331@gmail.com**
 
 <!--
 **srueda9331/srueda9331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
