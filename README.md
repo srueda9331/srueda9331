@@ -14,6 +14,7 @@ const aboutMe = {
 ```
 <br />
 ## :pushpin: My proyects
+<p>There's some pictures about how some of my projects look like</p>
 
 <p>
   <a><img src="https://github.com/srueda9331/srueda9331/blob/main/images/Captura%20de%20pantalla%20de%202022-09-14%2022-51-43.png" width='230px' height='130'></a>
@@ -22,7 +23,7 @@ const aboutMe = {
 </p>
 
 <hr />
-- 📫 Contact: srueda9331@gmail.com
+- 📫 Make contact with me: srueda9331@gmail.com
 <h3 align="left">Visit my profile on LinkedIn:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/santiago-jos%C3%A9-rueda-valencia-23b000180/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/santiago-jos%C3%A9-rueda-valencia-23b000180/" height="30" width="40" /></a>
