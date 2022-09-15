@@ -12,7 +12,7 @@ const aboutMe = {
    tools:  ["React", "Redux", "PostgreSQL", "Node", "Express", "Sequelize" "Material UI"],
 };
 ```
-<br />
+<hr />
 - 📫 Contact: **srueda9331@gmail.com**
 <h3 align="left">Visit my profile on LinkedIn:</h3>
 <p align="left">
