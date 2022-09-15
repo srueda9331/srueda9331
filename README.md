@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='https://miro.medium.com/max/1000/1*zikvkZ4-bRLpkKyJAN8WmQ.jpeg' width='400px' height='175px'/>
+<img src='https://miro.medium.com/max/1000/1*zikvkZ4-bRLpkKyJAN8WmQ.jpeg' width='1100px' height='200px'/>
 <!--
 **srueda9331/srueda9331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
