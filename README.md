@@ -16,9 +16,9 @@ const aboutMe = {
 ## :pushpin: My proyects
 
 <p>
-  <a><img src="https://github.com/srueda9331/srueda9331/blob/main/images/Captura%20de%20pantalla%20de%202022-09-14%2022-51-43.png" width='100px' height='100'></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
+  <a><img src="https://github.com/srueda9331/srueda9331/blob/main/images/Captura%20de%20pantalla%20de%202022-09-14%2022-51-43.png" width='200px' height='130'></a>
+  <a><img src="https://github.com/srueda9331/srueda9331/blob/main/images/Captura%20de%20pantalla%20de%202022-09-14%2022-51-57.png" width='200px' height='130'></a>
+  <a><img src="https://github.com/srueda9331/srueda9331/blob/main/images/Captura%20de%20pantalla%20de%202022-09-14%2022-53-55.png"  width='200px' height='130'></a>
 </p>
 
 <hr />
