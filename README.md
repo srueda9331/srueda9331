@@ -3,7 +3,7 @@
 <img src='https://miro.medium.com/max/1000/1*zikvkZ4-bRLpkKyJAN8WmQ.jpeg' width='1100px' height='250px'/>
 <br />
 <h3 align='center'>I'm a Full Stack Web Developer, I started to focus on the world of technology just by getting interested and see on how to build the websites which are commonly used each day by people from worldwide, I've realized that the future looks bright for people that wanted to face new challlenges and learn new languages like programming languages, that's when I knew that it was the path I must follow to succed in the future, below there's some info about me and what I've learned </h3>
-
+<br />
 
 ```javascript
 const aboutMe = {
@@ -12,6 +12,7 @@ const aboutMe = {
    tools:  ["React", "Redux", "PostgreSQL", "Node", "Express", "Sequelize" "Material UI"],
 };
 ```
+<br />
 - 📫 Contact: **srueda9331@gmail.com**
 <h3 align="left">Visit my profile on LinkedIn:</h3>
 <p align="left">
