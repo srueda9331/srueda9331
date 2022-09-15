@@ -13,7 +13,7 @@ const aboutMe = {
 };
 ```
 <br />
-## :pushpin: My proyects
+- :pushpin: My proyects
 <p>There's some pictures about how some of my projects look like</p>
 
 <p>
